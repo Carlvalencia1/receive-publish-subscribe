@@ -1,4 +1,4 @@
-# receibe-publish-subscribe
+# receive-publish-subscribe
 ✅ Se conecta a RabbitMQ.
 ✅ Crea un exchange "logs" de tipo fanout. 
 ✅ Declara una cola temporal y la vincula al exchange. 
